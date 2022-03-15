@@ -15,10 +15,10 @@ int main(void)
    	char charType;
 
     
-    	printf("Size of int: %zu bytes\n", sizeof(intType));
-    	printf("Size of float: %zu bytes\n", sizeof(floatType));
-    	printf("Size of double: %zu bytes\n", sizeof(doubleType));
-    	printf("Size of char: %zu byte\n", sizeof(charType));
+    	printf("Size of int: %1d bytes\n", sizeof(intType));
+    	printf("Size of float: %1d bytes\n", sizeof(floatType));
+    	printf("Size of double: %1d bytes\n", sizeof(doubleType));
+    	printf("Size of char: %1d byte\n", sizeof(charType));
 
 	return (0);
 }
