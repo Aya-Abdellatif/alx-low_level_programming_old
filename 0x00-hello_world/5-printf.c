@@ -3,8 +3,7 @@
  * main - Printf function
  * Description: Using main, this code prints a string with the printf function
  *
- * return: 0
- * Description: return 0
+ * return - 0
  *
  */
 
