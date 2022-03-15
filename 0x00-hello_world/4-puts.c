@@ -3,14 +3,13 @@
 /**
  * main - Entry
  *
- * Description - This code prints a string with puts function
+ * Description - Using the main funtion this code prints a string with puts function
  *
  * Return - 0
  */
 
 int main()
 {
-	puts("Programming is like building a multilingual puzzle.\n");
-	getchar();
+	puts("Programming is like building a multilingual puzzle\n");
 	return (0);
 }
