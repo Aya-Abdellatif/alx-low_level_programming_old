@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
  * main - Program prints single digits
- * 
  * Description: This program prints all single digit
  * numbers of base 10 starting from 0
  * followed by a new line
@@ -12,10 +11,10 @@
 int main(void)
 {
 	int ch;
-		
+
 	for (ch = 0; ch < 10; ch++)
 	{
-	putchar(ch+'0');
+	putchar(ch + '0');
 	}
 	putchar('\n');
 	return (0);
