@@ -3,7 +3,7 @@
 #include <stdio.h>
 /**
  * main - Program prints random numbers
- * Description: Prints the last digit of random numbers that is 
+ * Description: Prints the last digit of random numbers that is
  * assigned to variable n each time the program is executed
  * Return: returns 0 on success
  */
