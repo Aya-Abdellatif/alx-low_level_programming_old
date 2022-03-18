@@ -3,7 +3,7 @@
  * main - Program prints all single digit numbers of base 10
  * starting from 0
  * Description: This program prints all single digit
- * numbers of base 10 strarting
+ * numbers of base 10 starting
  * Return: returns 0 on success
  */
 
