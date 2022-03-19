@@ -1,10 +1,12 @@
 #include <stdio.h>
+
 /**
- * main - Program prints all single digit numbers of base 10
- * starting from 0
- * Description: This program prints all single digit
- * numbers of base 10 starting
- * Return: returns 0 on success
+ * main - Program prints alphabets
+ * in lower and upper case
+ *
+ * Description: Prints alphabet in lower casem then
+ * in upper case, followed by a new line
+ * Return: return 0 on success
  */
 
 int main(void)
