@@ -3,13 +3,12 @@
 
 void print_alphabet(void)
 {
-        char letter = 'a';
+        char ch = 'a';
 
-	while (letter <= 'z')
+	for (ch = 'a'; ch <= 'z'; ch++)
 
         {
-                _putchar(letter);
-		letter++;
+                _putchar(ch);
         }
 	_putchar('\n');
 }
