@@ -1,4 +1,5 @@
-#include <stdio.h>
+#include "main.h"
+
 /**
  * main - Program prints a string
  * Description: This program prints _putchar followed by
@@ -8,6 +9,6 @@
 
 int main(void)
 {
-	puts("_putchar");
+	printf("_putchar\n");
 	return (0);
 }
