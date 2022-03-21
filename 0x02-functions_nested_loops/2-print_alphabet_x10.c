@@ -1,6 +1,6 @@
 #include "main.h"
 
-/*
+/**
  * main - Program prints the alphabet
  * multiple times
  * Description: Program is designed to print
